@@ -1,4 +1,4 @@
-{
+{{
   "name": "og-repair-manager",
   "version": "1.0.0",
   "description": "OG Repair shop management system",
@@ -11,10 +11,6 @@
     "hono": "^4.6.15"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "wrangler": "^3.109.1"
-=======
-    "wrangler": "^4.95.0"
->>>>>>> a1b3d8c (Fresh start - OG Repair Manager)
+    "wrangler": "^4.0.0"
   }
 }
