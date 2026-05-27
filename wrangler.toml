@@ -1,0 +1,15 @@
+name = "og-repair-manager"
+<<<<<<< HEAD
+=======
+main = "src/index.js"
+>>>>>>> a1b3d8c (Fresh start - OG Repair Manager)
+compatibility_date = "2026-05-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+ENVIRONMENT = "production"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "og-repair-db"
+database_id = "cd21ded5-434f-447c-8e89-de786f354ffe"
